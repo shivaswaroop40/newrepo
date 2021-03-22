@@ -10,5 +10,6 @@ int main(){
     cout<<"Hello world for the third time";
     cout<<"Hello world for the fourth time";
     cout<<"hello world for the fifth time";
+    cout<<"New commit";
 }
 
